@@ -20,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		182EFE0C2B6C07BE000E78C0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		184FAF0B2B6548E900E5E0CF /* NotesApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NotesApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		184FAF0E2B6548E900E5E0CF /* NotesAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesAppApp.swift; sourceTree = "<group>"; };
 		184FAF102B6548E900E5E0CF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,6 +49,7 @@
 		184FAF022B6548E900E5E0CF = {
 			isa = PBXGroup;
 			children = (
+				182EFE0C2B6C07BE000E78C0 /* README.md */,
 				18EF48512B66746F00211014 /* Model */,
 				18EF484C2B66741700211014 /* View */,
 				184FAF0D2B6548E900E5E0CF /* NotesApp */,
